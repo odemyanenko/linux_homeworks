@@ -1,0 +1,5 @@
+   0 nano myfile.txt
+   1 cat /etc/group | tail -5 >> myfile.txt
+   2 vi myfile.txt
+   3 cat myfile.txt
+   4 history > history.txt
