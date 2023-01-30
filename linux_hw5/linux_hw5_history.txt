@@ -1,0 +1,49 @@
+   0 pws
+   1 pwd
+   2 ls -l
+   3 cd..
+   4 cd ..
+   5 pwd
+   6 ls
+   7 cd /opt
+   8 nano myscript.sh
+   9 cat myscript.sh 
+  10 vim myscript.sh 
+  11 vi myscript.sh 
+  12 ./myscript.sh 
+  13 chmod +x myscript.sh 
+  14 ls -l
+  15 ./myscript.sh 
+  16 ls
+  17 cat olgadem.txt 
+  18 vi myscript.sh 
+  19 rm -rf olgadem.txt 
+  20 ls
+  21 alias olgadem='/opt/myscript.sh'
+  22 alias
+  23 olgadem
+  24 cd ~
+  25 ls
+  26 cd ..
+  27 ls
+  28 ls /var/
+  29 cd /var
+  30 ls
+  31 cat olgadem.txt
+  32 rm -rf olgadem.txt 
+  33 ls
+  34 cd ..
+  35 cd opt
+  36 ls
+  37 export_file myscript.sh 
+  38 olgadem
+  39 cd ..
+  40 cd var
+  41 ls
+  42 cat olgadem.txt
+  43 export_file olgadem.txt
+  44 cd ..
+  45 cd opt
+  46 ls
+  47 history
+  48 history >> linux_hw5_history.txt
